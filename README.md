@@ -1,6 +1,15 @@
-# UX Portfolio
+# Dhruv's Portfolio
 
-About me...
+*Hi!* 
+My name is Dhruv Bahl and I'm a **Computer Science Major** 
+
+| Career Path I would Like   |              
+| -------------              | 
+| DevOps Dev                 |  
+| Full Stack dev             |  
+| Product Manager            |
+  
+
 
 ## UX Team Project
 
