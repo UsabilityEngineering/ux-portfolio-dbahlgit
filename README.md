@@ -2,7 +2,7 @@
 
 *Hi!* 
 
-![Thats Me](/assests/IMG_1270.jpg)
+![Thats Me](/assests/Dhruv.JPEG)
 
 My name is Dhruv Bahl and I'm a **Computer Science Major** 
 
