@@ -2,7 +2,7 @@
 
 *Hi!* 
 
-![Thats Me](/assests/Dhruv.JPEG)
+![Thats Me](https://github.com/UsabilityEngineering/ux-portfolio-dbahlgit/blob/master/assets/Dhruv.JPEG?raw=true)
 
 My name is Dhruv Bahl and I'm a **Computer Science Major** 
 
