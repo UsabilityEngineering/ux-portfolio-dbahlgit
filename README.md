@@ -1,7 +1,7 @@
 # Dhruv's Portfolio
 
 *Hi!* 
-![Thats Me](/assests/IMG_1270.HEIC)
+![Thats Me](/assests/IMG_1270.jpg)
 My name is Dhruv Bahl and I'm a **Computer Science Major** 
 
 | Career Path I would Like   |              
