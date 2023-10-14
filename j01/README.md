@@ -1,7 +1,7 @@
 # Apple's Digital Attic aka iCloud
 ## Dhruv Bahl <br> October 12th, 2023
 
-Storage has always been a big issue in my life. After so many software updates I'm left with barely any storage on my mobile device or my mac.My last resort for a stress free life has been [iCloud](https://www.apple.com/icloud/). iCloud was supposed to be gateway to a cloud-driven symphony. My primary goal was to synchronize data effortlessly between my iPhone, iPad, and MacBook. <br>
+Storage has always been a big issue in my life. After so many software updates I'm left with barely any storage on my mobile device or my mac. My last resort for a stress free life has been [iCloud](https://www.apple.com/icloud/). iCloud was supposed to be gateway to a cloud-driven symphony. My primary goal was to synchronize data effortlessly between my iPhone, iPad, and MacBook. <br>
 
 iCloud's interface is similar to what we expect on any Apple website. It starts by asking the user if they wanna upgrade their plan and provides them options. The interface was intuitive making it **_Learnable_** and the categorization made it easy to understand where my storage was primarily allocated and guiding me step by step on how to declutter data for better optimization without providing me technical knowledge.
 
