@@ -13,7 +13,9 @@ In terms of **_efficiency_** I was able to move my data from various products wi
 
 ![icloud](https://github.com/UsabilityEngineering/ux-portfolio-dbahlgit/blob/master/assets/Screenshot%202023-10-13%20at%206.28.49%20PM.png)
 
-The error messages while performing tasks were pretty vague by not giving me enough information about the failure and how to fix it. Another thing that I would like to mention is the inadequate **_error tolerance_** that happens after the storage is full. The automatic response doesn't provide me engough information on how I can delete the cache rather gives me the option of buying a better plan.
+The error messages while performing tasks were pretty vague by not giving me enough information about the failure and how to fix it. Another thing that I would like to mention is the inadequate **_error tolerance_** that happens after the storage is full. The automatic response doesn't provide me engough information on how I can delete the cache rather gives me the option of buying a better plan. This weakness can be tackled by providing users more information with less actions on how to get rid of cache, unnecessary files and least used documents rather than pointing me towards upgrading the plan.
 
 ![icloud](https://github.com/UsabilityEngineering/ux-portfolio-dbahlgit/blob/master/assets/Screenshot%202023-10-13%20at%206.34.10%20PM.png)
+
+
 
