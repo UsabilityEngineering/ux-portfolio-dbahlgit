@@ -20,4 +20,4 @@ Coming soon.
 
 ## UX Journal
 
-[Apple's Digital Attic aka iCloud](https://github.com/UsabilityEngineering/ux-portfolio-dbahlgit/blob/master/j01/README.md)
+[Apple's Digital Attic aka iCloud](https://github.com/UsabilityEngineering/ux-portfolio-dbahlgit/blob/master/Journal.md)
