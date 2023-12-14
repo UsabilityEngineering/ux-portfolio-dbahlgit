@@ -16,7 +16,7 @@ My name is Dhruv Bahl and I'm a **Computer Science Major**
 
 ## UX Team Project
 
-Coming soon.
+[Team Project](https://github.com/ChicoState/UX-FriendHub/)
 
 ## UX Journal
 
